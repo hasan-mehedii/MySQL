@@ -1,5 +1,5 @@
 /*
-	Q. Create a database for your company named XYZ.alter
+	Q. Create a database for your company named XYZ.
 		step-1: Create a table inside this DB to store employee info(id, name and salary).
 		step-2: Add following information in the database:
 			1, "adam", 25000
